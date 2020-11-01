@@ -1,2 +1,3 @@
 # random-practice
-git hub skill
+
+Ecommerce project using python/Django Framework
